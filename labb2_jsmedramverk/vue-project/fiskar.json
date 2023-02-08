@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Gädda",
+    "latin": "Esox lucius"
+  },
+  {
+    "id": 2,
+    "name": "Abborre",
+    "latin": "Perca fluviatilis"
+  },
+  {
+    "id": 3,
+    "name": "Gös",
+    "latin": "Sander lucioperca"
+  },
+  {
+    "id": 4,
+    "name": "Asp",
+    "latin": "Aspius aspius"
+  },
+  {
+    "id": 5,
+    "name": "Lax",
+    "latin": "Salmo salar"
+  },
+  {
+    "id": 6,
+    "name": "Öring",
+    "latin": "Salmo trutta"
+  },
+  {
+    "id": 7,
+    "name": "Regnbåge",
+    "latin": "Oncorhynchus mykiss"
+  },
+  {
+    "id": 8,
+    "name": "Harr",
+    "latin": "Thymallus thymallus"
+  },
+  {
+    "id": 9,
+    "name": "Mört",
+    "latin": "Rutilus rutilus"
+  },
+  {
+    "id": 10,
+    "name": "Braxen",
+    "latin": "Abramis brama"
+  }
+]
