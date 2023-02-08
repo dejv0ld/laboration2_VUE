@@ -17,8 +17,8 @@ export default {
   <nav>
     <ul>
       <li v-for="fish in fishes" :key="fish">
-        <router-link :to="`/${fish.id}`">{{ fish.name }}</router-link><p>({{ fish.latin }})</p>
-
+        <router-link :to="`/${fish.id}`">{{ fish.name }}</router-link>
+        <p>({{ fish.latin }})</p>
       </li>
     </ul>
   </nav>
@@ -27,5 +27,14 @@ export default {
 <style scoped>
 [v-cloak] {
   display: none;
+}
+
+li {
+  display: flex;
+  flex-direction: row;
+}
+
+p {
+  padding-left: 5px;
 }
 </style>
