@@ -7,5 +7,5 @@ import bootstrap from "bootstrap/dist/js/bootstrap.bundle.js";
 const app = createApp(App);
 
 app.use(router);
-app.use(bootstrap)
+app.use(bootstrap);
 app.mount("#app");

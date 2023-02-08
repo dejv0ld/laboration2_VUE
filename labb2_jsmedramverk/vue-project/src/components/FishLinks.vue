@@ -17,7 +17,7 @@ export default {
   <nav>
     <ul>
       <li v-for="fish in fishes" :key="fish">
-        <router-link :to="`/${fish.id}`">{{ fish.name }}</router-link>
+        <router-link :to="`/${fish.name}/${fish.id}`">{{ fish.name }}</router-link>
         <p>({{ fish.latin }})</p>
       </li>
     </ul>
