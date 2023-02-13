@@ -2,51 +2,51 @@
   {
     "id": 1,
     "name": "Gädda",
-    "latin": "Esox lucius"
+    "engelska": "Northern Pike"
   },
   {
     "id": 2,
     "name": "Abborre",
-    "latin": "Perca fluviatilis"
+    "engelska": "Perch"
   },
   {
     "id": 3,
     "name": "Gös",
-    "latin": "Sander lucioperca"
+    "engelska": "Walleye"
   },
   {
     "id": 4,
     "name": "Asp",
-    "latin": "Aspius aspius"
+    "engelska": "Asp"
   },
   {
     "id": 5,
     "name": "Lax",
-    "latin": "Salmo salar"
+    "engelska": "Salmon"
   },
   {
     "id": 6,
     "name": "Öring",
-    "latin": "Salmo trutta"
+    "engelska": "Trout"
   },
   {
     "id": 7,
     "name": "Regnbåge",
-    "latin": "Oncorhynchus mykiss"
+    "engelska": "Rainbow trout"
   },
   {
     "id": 8,
     "name": "Harr",
-    "latin": "Thymallus thymallus"
+    "engelska": "Grayling"
   },
   {
     "id": 9,
     "name": "Mört",
-    "latin": "Rutilus rutilus"
+    "engelska": "Roach"
   },
   {
     "id": 10,
     "name": "Braxen",
-    "latin": "Abramis brama"
+    "engelska": "Bream"
   }
 ]
