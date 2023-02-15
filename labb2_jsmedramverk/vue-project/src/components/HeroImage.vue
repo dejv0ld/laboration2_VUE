@@ -1,10 +1,4 @@
-<script>
-export default {
-  data() {
-    return { imageSource: "./src/images/trout-hero.jpg" };
-  },
-};
-</script>
+<script></script>
 
 <template>
   <div id="hero-div">

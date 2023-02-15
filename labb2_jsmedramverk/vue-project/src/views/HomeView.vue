@@ -10,7 +10,7 @@ import LatinTranslator from "../components/LatinTranslator.vue";
 
     <div class="top-div">
       <LatinTranslator />
-      <h1>Fiskarter</h1>
+      <h2>Fiskarter</h2>
       <p>
         Läs mer om dessa tio fiskarter genom att klicka på namn i listan
         nedanför.

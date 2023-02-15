@@ -2,8 +2,6 @@
 import { RouterLink, RouterView } from "vue-router";
 </script>
 <template>
-  <!-- Här lägger ni en navbar och istället för href så använder ni RouterLink -->
-
   <div class="collapse" id="navbarToggleExternalContent">
     <div class="bg-dark p-4">
       <ul class="navbar-list">

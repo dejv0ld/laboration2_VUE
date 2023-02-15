@@ -24,6 +24,7 @@ const fishTranslations = {
   öring: "Salmo trutta",
   regnbåge: "Oncorhynchus mykiss",
 };
+
 export default {
   data() {
     return {

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Gädda",
+    "engelska": "Northern Pike"
+  },
+  {
+    "id": 2,
+    "name": "Abborre",
+    "engelska": "Perch"
+  },
+  {
+    "id": 3,
+    "name": "Gös",
+    "engelska": "Walleye"
+  },
+  {
+    "id": 4,
+    "name": "Asp",
+    "engelska": "Asp"
+  },
+  {
+    "id": 5,
+    "name": "Lax",
+    "engelska": "Salmon"
+  },
+  {
+    "id": 6,
+    "name": "Öring",
+    "engelska": "Trout"
+  },
+  {
+    "id": 7,
+    "name": "Regnbåge",
+    "engelska": "Rainbow trout"
+  },
+  {
+    "id": 8,
+    "name": "Harr",
+    "engelska": "Grayling"
+  },
+  {
+    "id": 9,
+    "name": "Mört",
+    "engelska": "Roach"
+  },
+  {
+    "id": 10,
+    "name": "Braxen",
+    "engelska": "Bream"
+  }
+]
