@@ -1,5 +1,6 @@
 <script>
 export default {
+  //Fetching json file
   async created() {
     const response = await fetch("fiskar.json");
     const result = await response.json();
@@ -13,6 +14,7 @@ export default {
 };
 </script>
 
+<!--Looping out fish names as links-->
 <template v-if="fishes !== null">
   <nav>
     <ul>

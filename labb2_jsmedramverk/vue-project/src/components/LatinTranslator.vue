@@ -40,6 +40,8 @@ export default {
     },
   },
   computed: {
+    /* returns the name if nameUpdated is false, otherwise returns
+    the fishtranslation */
     formattedFishName() {
       return this.nameUpdated
         ? fishTranslations[this.newFishName.toLowerCase()] || this.newFishName
@@ -50,6 +52,7 @@ export default {
     },
   },
   methods: {
+    //updates the original fishname with new value
     updateFishName() {
       this.nameUpdated = true;
       this.$emit("update:fishName", this.newFishName);
